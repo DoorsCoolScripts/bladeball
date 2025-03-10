@@ -1144,7 +1144,7 @@ local function getObjGen()
             Gui.Image.BackgroundTransparency = 1.000
             Gui.Image.Size = UDim2.new(0.400000006, 0, 0.400000006, 0)
             Gui.Image.ZIndex = 123
-            Gui.Image.Image = "rbxassetid://8349124615"
+            Gui.Image.Image = "rbxassetid://13034797311"
             Gui.Image.ImageColor3 = Color3.fromRGB(90, 90, 90)
 
             Gui.UIAspectRatioConstraint_6.Parent = Gui.Image
